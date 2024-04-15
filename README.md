@@ -4,12 +4,20 @@ Dataset is from Kaggle Link: https://www.kaggle.com/datasets/soumendraprasad/sto
 
 # Data Structure
 Data Points from 2000 to 2023 
+
 Date: Date of the stock price.
+
 Open: Opening price of the stock on a particular date. 
+
 High: Highest price of the stock on a particular date. 
+
 Low: Lowest price of the stock on a particular date. 
+
 Close: Closing price of the stock on a particular date. 
-Adj Close: Adjusted closing of the stock on a particular date Volume: Number of shares traded on that date.
+
+Adj Close: Adjusted closing of the stock on a particular date 
+
+Volume: Number of shares traded on that date.
 
 
 # Pre-Requists
